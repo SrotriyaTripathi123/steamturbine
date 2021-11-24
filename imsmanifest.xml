@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6qBeqrDfhhd_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Steam Turbine Blade</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Steam_Turbine_Blade_ORG">
+    <organization identifier="Steam_Turbine_Blade_ORG">
+      <title>Steam Turbine Blade</title>
+      <item identifier="Steam_Turbine_Blade_SCO" isvisible="true" identifierref="__6qBeqrDfhhd_course_id_RES">
+        <title>Steam Turbine Blade</title>
+        <adlcp:masteryscore>50</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6qBeqrDfhhd_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6ZNaidTk2Vg_80_P_0_0_428_416_DX1400_DY1400_CX428_CY416.jpg" />
+      <file href="story_content/6EbktTT5QzG_44100_48_0.mp3" />
+      <file href="mobile/6BOuT1myNST_80_P_91_27_684_717_DX1026_DY1026_CX621_CY650.jpg" />
+      <file href="story_content/5p6wbdmFAR3_44100_48_0.mp3" />
+      <file href="story_content/6T35Qaes7PP_44100_48_0.mp3" />
+      <file href="mobile/5vBjHfltcHu_80_DX418_DY418_CX209_CY153.png" />
+      <file href="mobile/5Zqb3xELpNa_80_DX388_DY388_CX304_CY203.jpg" />
+      <file href="mobile/5eZmxanrtZs_80_DX418_DY418_CX209_CY153.png" />
+      <file href="mobile/5xvCdn39ycI_80_DX382_DY382_CX300_CY195.jpg" />
+      <file href="mobile/6el6jxKUk7d_80_DX388_DY388_CX209_CY209.png" />
+      <file href="mobile/6e7G6AO7BO3_80_P_150_-7_888_645_DX466_DY466_CX284_CY206.jpg" />
+      <file href="mobile/5a7RGEjm9k0_80_DX418_DY418_CX220_CY220.png" />
+      <file href="mobile/5iJZSVUKWNT_80_DX430_DY430_CX338_CY256.jpg" />
+      <file href="mobile/6ec7I6auUfI_80_DX556_DY556_CX437_CY280.jpg" />
+      <file href="story_content/5s1lZUm4Onf_44100_48_0.mp3" />
+      <file href="mobile/5inw8rZhGrN_80_P_-9_381_462_511_DX1080_DY1080_CX432_CY478.png" />
+      <file href="mobile/5pUUtI6Slz6_80_DX542_DY542_CX271_CY186.jpg" />
+      <file href="story_content/5VOAE5KlJIb_44100_48_0.mp3" />
+      <file href="story_content/5uzX3DQuxud_44100_48_0.mp3" />
+      <file href="mobile/6c5Xqe8p42n_80_P_0_0_250_211_DX500_DY500_CX250_CY212.jpg" />
+      <file href="mobile/6BQUc6ppOMQ_80_DX660_DY660_CX330_CY330.png" />
+      <file href="story_content/5sFOwajxdpn_44100_48_0.mp3" />
+      <file href="story_content/5ynv65xUJvw_44100_48_0.mp3" />
+      <file href="story_content/5YxDV3Fuj6X_44100_48_0.mp3" />
+      <file href="story_content/6Ivn1XSjj30_44100_48_0.mp3" />
+      <file href="mobile/6nrsXcd8lAN_80_DX608_DY608_CX168_CY477.png" />
+      <file href="mobile/6QEsrc0m660_80_DX608_DY608_CX261_CY477.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jmEccnKnvO.js" />
+      <file href="html5/data/js/5moJoDvI1cO.js" />
+      <file href="html5/data/js/5v3FiuPI6Tj.js" />
+      <file href="html5/data/js/5wPsMnhd91F.js" />
+      <file href="html5/data/js/5wtSRMMlK4c.js" />
+      <file href="html5/data/js/5Z5Bp3MUV6P.js" />
+      <file href="html5/data/js/6ceWuEQ0DKN.js" />
+      <file href="html5/data/js/6NXPEBGMAFK.js" />
+      <file href="html5/data/js/6r45465prnW.js" />
+      <file href="html5/data/js/6WkMBf0xL7B.js" />
+      <file href="html5/data/js/6Wy7x2ExveU.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
